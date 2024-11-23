@@ -1,2 +1,2 @@
-# EE5179_ClassProject
+# Image_Denoising_EE5179_ClassProject_using_KLA_dataset
 EE5179 Class Project
